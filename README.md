@@ -1,6 +1,6 @@
 # Git Updater
 
-This a `python3 script` that updates all your git repositories with only one excecution.
+This a `python3 script` that updates all your git repositories with only one execution.
 
 ## Instructions
 
