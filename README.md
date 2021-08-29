@@ -30,5 +30,5 @@ Then your `paths.txt` file should look like this:
 
 ```MD
 repo_1
-../Folder_2/repo_1
+../Folder_2/repo_2
 ```
