@@ -4,9 +4,9 @@ This a `python3 script` that updates all your git repositories with only one exe
 
 ## Instructions
 
-1. Have [git download](https://git-scm.com/downloads) in your PC.
+1. Have [python3](https://www.python.org/downloads/) and [git download](https://git-scm.com/downloads) in your PC.
 2. Fill the `paths.txt` file with all the relative paths *(all of them from this folder)* of all the repositories that you want to update when executing this script.
-3. Run in console `python main.py` and see the magic happen
+3. Run in console `python main.py` and see the magic happen.
 
 ## Example
 
